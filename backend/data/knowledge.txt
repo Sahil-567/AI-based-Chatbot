@@ -1,0 +1,21 @@
+OpenAI is a leader in AI research and deployment.
+LangChain helps connect LLMs to external data.
+FAISS allows fast vector similarity search on embeddings.
+Hy, i am fine sg how are you.
+
+
+FastAPI is a modern, high-performance web framework for building APIs with Python 3.7+ based on standard Python type hints. It is built on top of Starlette for web handling and Pydantic for data validation.
+
+FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors. It is commonly used to search through large sets of text or image embeddings.
+
+LangChain is a Python framework that helps developers build applications powered by language models. It supports components like chains, memory, agents, and tools for working with LLMs.
+
+OpenAI GPT models are state-of-the-art language models that can generate human-like text based on given input. They are widely used in chatbots, summarizers, translators, and more.
+
+Hugging Face is a company that provides machine learning models and tools. Their `transformers` library and pre-trained models make it easy to work with NLP tasks.
+
+Embeddings are vector representations of text that capture the semantic meaning of a word, sentence, or document. Similar texts have similar embeddings and are close in vector space.
+
+Retrieval-Augmented Generation (RAG) is a technique where relevant documents are retrieved and used as additional context to improve the output of a language model.
+
+Streamlit is an open-source Python library used to create and share web apps for machine learning and data science projects. It's fast, easy, and doesn't require front-end knowledge.
